@@ -5,6 +5,9 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![LangGraph](https://img.shields.io/badge/LangChain-0.3.26+-orange.svg)](https://langchain.com/)
 
+
+
+
 > **Your intelligent travel companion that creates comprehensive, personalized trip plans with real-time data and cost analysis.**
 
 ## 🚀 What is GetSetGO-ai?
