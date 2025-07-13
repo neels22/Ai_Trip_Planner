@@ -10,6 +10,12 @@
 
 > **Your intelligent travel companion that creates comprehensive, personalized trip plans with real-time data and cost analysis.**
 
+## 🎬 Demo
+
+https://github.com/neels22/Ai_Trip_Planner/blob/main/Demo-video.mov
+
+*Watch how GetSetGO-ai creates comprehensive travel plans with real-time data, weather forecasts, and detailed cost breakdowns.*
+
 ## 🚀 What is GetSetGO-ai?
 
 GetSetGO-ai is an advanced AI-powered travel planning application that leverages cutting-edge language models and real-time data to create detailed, personalized travel itineraries. Built with a modern agentic workflow architecture, it provides comprehensive trip planning including attractions, accommodations, dining, activities, transportation, weather forecasts, and detailed cost breakdowns.
