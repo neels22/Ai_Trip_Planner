@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[![LangChain](https://img.shields.io/badge/LangChain-0.3.26+-orange.svg)](https://langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangChain-0.3.26+-orange.svg)](https://langchain.com/)
 
 > **Your intelligent travel companion that creates comprehensive, personalized trip plans with real-time data and cost analysis.**
 
