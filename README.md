@@ -14,6 +14,11 @@
 
 https://github.com/neels22/Ai_Trip_Planner/blob/main/Demo-video.gif
 
+
+![AI Trip Planner Interface](https://github.com/neels22/Ai_Trip_Planner/blob/main/ss.png)
+
+
+
 *Watch how GetSetGO-ai creates comprehensive travel plans with real-time data, weather forecasts, and detailed cost breakdowns.*
 
 ## 🚀 What is GetSetGO-ai?
