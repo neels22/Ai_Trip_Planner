@@ -12,7 +12,7 @@
 
 ## 🎬 Demo
 
-https://github.com/neels22/Ai_Trip_Planner/blob/main/Demo-video.mp4
+https://github.com/neels22/Ai_Trip_Planner/blob/main/Demo-video.gif
 
 *Watch how GetSetGO-ai creates comprehensive travel plans with real-time data, weather forecasts, and detailed cost breakdowns.*
 
